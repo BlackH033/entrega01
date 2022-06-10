@@ -1,0 +1,16 @@
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\bin\Debug\net5.0\Entrega1.exe
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\bin\Debug\net5.0\Entrega1.deps.json
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\bin\Debug\net5.0\Entrega1.runtimeconfig.json
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\bin\Debug\net5.0\Entrega1.runtimeconfig.dev.json
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\bin\Debug\net5.0\Entrega1.dll
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\bin\Debug\net5.0\ref\Entrega1.dll
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\bin\Debug\net5.0\Entrega1.pdb
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\Entrega1.csproj.AssemblyReference.cache
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\Entrega1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\Entrega1.AssemblyInfoInputs.cache
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\Entrega1.AssemblyInfo.cs
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\Entrega1.csproj.CoreCompileInputs.cache
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\Entrega1.dll
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\ref\Entrega1.dll
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\Entrega1.pdb
+D:\CESDE\lenguajes\entrega_1\Entrega1\Entrega1\obj\Debug\net5.0\Entrega1.genruntimeconfig.cache
